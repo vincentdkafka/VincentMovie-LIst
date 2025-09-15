@@ -3,6 +3,8 @@
 # Movie Search App
 
 A simple React-based web application that allows users to search for movies and view popular titles using a clean and responsive UI.
+Made With React and lucide-react
+
 
 ---
 
